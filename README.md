@@ -1,6 +1,6 @@
 # Hi, I'm Khaoula 👋  
 
-💻 Software Engineering Student (Bac+4)  
+💻 Computer science Engineering Student 
 🧠 Full-Stack Developer & Machine Learning Enthusiast  
 ⚙️ I build systems, train models, and ship real-world projects  
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering student at AIAC  
+- 🎓 Computer science Engineering Student 
 - 🔥 Passionate about backend systems & ML  
 - 🛠️ I love turning complex problems into clean solutions  
 - 📚 Always learning, always building  
